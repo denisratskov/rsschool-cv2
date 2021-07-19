@@ -444,4 +444,93 @@ My code:
       Биография
     </h2>
     
+    <p class="paragraph">
+      Всем привет! Меня зовут Денис! С детства увдекаюсь качественной музыкой, видимо и поэтому я стал DJ! 
+      С каких-то пор я начал продюссировать молодых и талантливых, а также писать авторские треки и биты и к ним текста!
+      И вообще я много чем занимался, я был и руководителем группы и наставником и главным инженером и 
+      энергетиком, в компах время от времени "колупался", и "колупался" в электронике и 
+      технике, так же своими руками создал много акустических систем, сам всё это дело расчитывал и измерял, вся свето-техника, что связана со свето-диодами,
+      сложил велосипед под себя и проехал тысячи киллометров на нем, типа ЗОЖ, люблю легкую аттлетику, а так я ГИК, люблю новые и свежие технологии,
+      тестирую в основном мобильные камеры, а так я простой человек, люблю юмор, а так же увожу соседских девочек,
+      а так хакер по жизни, вот решил исправится и стать Full-Stack разработчиком! Люблю бурбон, темное пиво и темненьких чик!
+    </p>
 
+    <div class="img-container">
+
+      <a href="https://vk.com/djratek">
+      <img class="circle-img" src=./img/no1.jpg alt="pictire1">
+      </a>
+     <img class="circle-img" src=./img/no2.jpg alt="pictire2">
+     <img class="circle-img" src=./img/no3.jpg alt="pictire3">
+    
+    </div>
+
+  </div>
+  
+  <div class="block1 no-padding-top" id="contact">
+
+    <h2>
+     Контакты
+    </h2>
+
+    <form action="/" method="POST" id="contact-form">
+      <input type="text" name="FIO" placeholder="ФИО">
+      <input type="email" name="email">
+      <textarea name="message" placeholder="Сообщение"></textarea>
+      <input type="submit" name="submit" id="submit"
+    </form>
+
+    <div class="block1 no-padding-top" id="partner">
+
+      <h2>
+        Мои Партнеры
+      </h2>
+
+      <a href="https://www.beatport.com/artist/ratek-fleek/753821">
+      <img class="circle-img" src=./img/beatport.png alt="pictire11">
+      </a>
+      <a href="https://promodj.com/djratek">
+      <img class="circle-img" src=./img/promodj.png alt="pictire22">
+      </a>
+      <a href="https://soundcloud.com/djratek">
+      <img class="circle-img" src=./img/soundcloud.png alt="pictire33">
+      </a>
+      <a href="https://music.yandex.ru/artist/5406864">
+      <img class="circle-img" src=./img/яндекс.png alt="pictire44">
+      </a>
+      <a href="https://podcasts.apple.com/ru/podcast/vip-electro-dj-ratek/id963580874">
+      <img class="circle-img" src=./img/apple.png alt="pictire55">
+      </a>
+      <a href="https://artists.spotify.com/c/artist/3KfNOE8a2fU5oetyNPpWGD/profile/overview">
+      <img class="circle-img" src=./img/spotify.png alt="pictire66">
+      </a>
+      <a href="https://vk.com/freakydeejays">
+      <img class="circle-img" src=./img/freaky.jpg alt="pictire77">
+      </a>
+      <a href="https://www.djrating.ru/dj/9094#">
+      <img class="circle-img" src=./img/топ100.jpg alt="pictire88">
+      </a>
+
+    </div>
+    
+
+    <a id="gototop" href="#navigation">
+      ∧
+    </a>
+
+  </div>
+
+</div>
+<!--закончили верстку, ниже JS-->
+
+<div class="other"> Мой сайт 2021@info связь со мной VK: <a href="https://www.vk.com/denisratskov" target=_blank">@denisratskov</a> Phone: +375 33 6624300 
+(email) <a href="mailto:denisratskov@gmail.com"Mailto target="_blank">@denisratskov</a></div>
+
+<script>
+  alert("Пример кода")
+  //типа того что-то, а дальще - больше
+</script>
+
+</body>
+
+</html>
