@@ -13,524 +13,565 @@ My English range middle a1 or a2!I gradually tighten my level!
 My code
 
 My code:
+
 <!DOCTYPE html>
+<html lang="en" moznomarginboxes>
+    <head>
+        <meta http-equiv="X-UA-Compatible" content="IE=edge">
+        <meta name="viewport" content="width=device-width, initial-scale=1.0">
+        <!-- Metadata -->
+        <link rel="stylesheet" type="text/css" href="https://fonts.googleapis.com/css?family=Cardo|Montserrat:300,400,500&amp;subset=latin-ext" crossorigin="anonymous" />
+        <link rel="stylesheet" type="text/css" href="https://cdnjs.cloudflare.com/ajax/libs/normalize/8.0.0/normalize.min.css" integrity="sha256-oSrCnRYXvHG31SBifqP2PM1uje7SJUyX0nTwO2RJV54=" crossorigin="anonymous" />
+        <link rel="stylesheet" type="text/css" href="https://use.fontawesome.com/releases/v5.1.0/css/all.css" integrity="sha384-lKuwvrZot6UHsBSfcMvOkWwlCMgc0TaWr+30HWe3a4ltaBwTZhyTEggF5tJv8tbt" crossorigin="anonymous" />
+        <!-- Custom Styles -->
+        <link rel="stylesheet" type="text/css" href="./styles.css" />
+        <title>Denis Ratskov CV</title>
+        <link rel="stylesheet" href="style.css">
+    </head>
+    <body class="letter">
+        <section id="save">
+            <section class="sheet">
+                <aside>
+                    <a href="https://rs.school/js/">
+                        <img src="https://github.com/denisratskov/rsschool-cv/blob/gh-pages/dImWmNTua70.jpg?raw=true" alt="rs.school"> 
+                    </a>
+                    <section class="contact">
+                        <h6>Contact</h6>
+                        <ul>
+                            <li>
+                                <p><i class="fa fa-map-marker-alt" title="Location"></i> BY, Minsk</p>
+                            </li>
+                            <li>
+                                <p><i class="fa fa-phone" title="Cell phone"></i> <a href="tel:+375336624300">+375336624300</a></p>
+                            </li>
+                            <li>
+                                <p><i class="fa fa-envelope" title="Email"></i> <a href="mailto:denisratskov@gmail.com">denisratskov@gmail.com</a></p>
+                            </li>
+                            <li>
+                                <p><i class="fa fa-globe-americas" title="Website"></i> <a href="https://denisratskov.tk">denisratskov.tk</a></p>
+                            </li>
+                            <li>
+                                <p><i class="fab fa-github" title="GitHub"></i> <a href="https://github.com/denisratskov">github.com/denisratskov</a></p>
+                            </li>
+                        </ul>
+                    </section>
+                    <section class="skills">
+                        <h6>Others</h6>
+                        <ul>
+                            <li><span>Music Producer</span></li>
+                            <li><span>Energy Profession</span></li>
+                            <li><span>Music Engineer</span></li>
+                            <li><span>DJ</span></li>
+                        </ul>
+                    </section>
+                    <section class="skills">
+                        <h6>Technologies</h6>
+                        <ul>
+                            <li><span>JS</span></li>
+                            <li><span>Kotlin</span></li>
+                            <li><span>HTML</span></li>
+                            <li><span>CSS</span></li>
+                            <li><span>Ableton</span></li>
+                            <li><span>Pyton</span></li>
+                        </ul>
+                    </section>
+                    <section class="skills">
+                        <h6>Web - Pages - Official</h6>
+                        <ul>
+                            <li><span>http://www.denisratskov.tk/</span></li>
+                            <li><span>http://djratek.tilda.ws/</span></li>
+                            <li><span>https://ratskov.wordpress.com/</span></li>
+                            <li><span>denisratskov.wixsite.com/djratek</span></li>
+                        </ul>
+                    </section>
+                    <section class="skills">
+                        <h6>Web - Pages - Contact</h6>
+                        <ul>
+                            <li><span>https://vk.com/denisratskov/</span></li>
+                            <li><span>https://vk.com/djratek/</span></li>
+                            <li><span>https://promodj.com/djratek</span></li>
+                        </ul>
+                    </section>
+                    <section class="references">
+                    </li>                 
+                    <li>
+                        <a href="https://github.com/denisratskov">
+                            <img width="40" height="40" src="https://avatars.githubusercontent.com/u/86842448?s=400&v=4" alt="github"> 
+                        </a>
+                    </li>
 
-<html lang="en">
+                    </section>
+                </aside>
+                <section>
+                    <header class="name" aria-label="Denis Ratskov">
+                        <a href="https://denisratskov.tk">
+                            <svg width="257px" height="35px" viewBox="0 0 257 35" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+                                <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" font-family="Montserrat-Regular, Montserrat" font-size="48" font-weight="normal">
+                                    <g id="Letter" transform="translate(-54.000000, -140.000000)" fill="#484848">
+                                        <text id="DENIS-RATSKOV">
+                                            <tspan x="54.728" y="174">RATSKOV</tspan>
+                                        </text>
+                                    </g>
+                                </g>
+                            </svg>
+                        </a>
+                        <h6>Front-end and Android Engineer</h6>
+                        <hr />
+                    </header>
+                    <section>
+                        <section class="summary">
+                            <h6>Summary</h6>
+                            <p>
+                                Hi! My name is Denis! I am an engineer and a musician by education, I wanted to change something in my life, I decided to try myself in programming, but I have already made a website for myself .. At the moment, I know a little ntml and css, according to JS, the script learned the syntax, started with python and also planned to study testing and Kotlin for android.. 
+                            </p>
+                        </section>
+                        <section class="experience">
+                            <h6>Experience</h6>
+                            <ol>
+                                <li>
+                                    <header>
+                                        <p class="sanserif">Start Software Engineer</p>
+                                        <time>2021 – Present</time>
+                                    </header>
+                                    <ul>
+                                        <li>Starting on Epam course - stage0</li>
+                                        <li>Ending course ITDVN - JS Started - 86% of sertificate</li>
+                                        <li>Ending course ITEA online on Html & Css - give sertificate</li>
+                                    </ul>
+                                </li>
+                                <li>
+                                    <header>
+                                        <p class="sanserif">Languages 1</p>
+                                        <time>Past - Present</time>
+                                    </header>
+                                    <span>English</span>
+                                    <ul>
+                                        <li>A1+</li>
+                                        <li>pull up to A2</li>
+                                    </ul>
+                                </li>
+                                <li>
+                                    <header>
+                                        <p class="sanserif">Languages 2</p>
+                                        <time>Past - Present</time>
+                                    </header>
+                                    <span>Russian</span>
+                                    <ul>
+                                        <li>Main Language</li>
+                                        <li>Very Goog</li>
+                                        <li>native Belarusian and understanding of Ukrainian</li>
+                                    </ul>
+                                </li>
+                                <li>
+                                    <header>
+                                        <p class="sanserif">Technical Skills</p>
+                                        <time>Past - Present</time>
+                                    </header>
+                                    <ul>
+                                        <li>HTML, CSS</li>
+                                        <li>JavaScript</li>
+                                        <li>Git, VScode</li>
+                                        <li>Tilda, Wordpress</li>
+                                        <li>Windows Software</li>
+                                        <li>Pyton</li>
+                                        <li>Kotlin</li>
+                                        <li>Android Software</li>
+                                        <li>QA Testing</li>  
+                                    <ul>
+                                </li>
+                                <li>
+                                    <header>
+                                            alert("Ура")
+                                    <ul>
+                                </li>
+                            </ol>
 
-<head>
-<!--начинаем CSS-->
+                        </section>
+                        <section class="education">
+                            <footer>
+                                    <a href="https://rs.school/js/">
+                                        <img width="100" height="40" src="https://rs.school/images/rs_school_js.svg" alt="rs.school"> 
+                                    </a>
+                                    <footer1>
+                                    <time>2021</time>
+                                    </footer1>
+                            </footer>
+                        </section>
+                    </section>
+                </section>
+            </section>
+        </section>
 
-  <meta charset="UTF-8">
-  <meta http-equiv="X-UA-Compatible" content="IE=edge">
-  <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <title>Document</title>
+        </main>
+    
+        <!-- Script -->
+        <script type="text/javascript" src="./index.js"></script>
+    </body> -->
+</html>
 
-  <style>
+@charset "UTF-8";
 
-  html, body , p {
-  padding: 0;
-  margin: 0;
-  }
+* {
+    min-height: 0;
+    min-width: 0;
+    box-sizing: border-box;
+    transform-origin: 0px 0px 0px;
+}
 
-  p, li {
-    font-family: 'Times New Roman', Times, serif;
-  }
-  
-  h1 {
-    font-size: 40px;
-  }
+p:blank, li:blank, div:blank, section:blank {
+    display: none;
+}
 
-  h2 {
-    color: rgb(98, 98, 180);
-    font-size: 36px;
-  }
+p:empty, li:empty, div:empty, section:empty {
+    display: none;
+}
 
-  .bold-text {
-    font-weight: bold;
-  }
+p:-moz-only-whitespace, li:-moz-only-whitespace, div:-moz-only-whitespace, section:-moz-only-whitespace {
+    display: none;
+}
 
-  .cyan-text {
-    color:rgb(255, 187, 0)
-  }
+/* Page Variables */
 
-  .white-text {
-    color:rgb(255, 255, 255)
-  }
+:root {
+    --main-width: 74%;
+    --header-height: 1.2in;
+    --sidebar-width: calc(100% - var(--main-width));
+}
 
-  .golg-text {
-    color:rgb(223, 224, 151)
-  }
-  
-  .purple {
-    background:rgb(73, 24, 165);
-  }
+body {
+    font-size: 0.95em;
+    margin: 0 auto;
+    -ms-text-size-adjust: 100%;
+    -webkit-text-size-adjust: 100%;
+    -webkit-font-smoothing: antialiased;
+    -moz-osx-font-smoothing: grayscale;
+    -webkit-tap-highlight-color: transparent;
+    text-rendering: optimizeLegibility;
+    text-decoration-skip: ink;
+    hyphens: auto;
+}
 
-  .block1 {
-    width: 900px;
-    margin:auto;
-    padding-top: 50px;
-    padding-bottom: 50px;
-  }
-
-  .block1.no-padding-top {
-    padding-top: 0;
-  }
-
-  .nav {
-    list-style: none;
-    padding: 0;
-    margin: 0;
+#save > section:first-of-type {
     display: flex;
-    justify-content: space-between;
-    align-items: center;
-    margin-bottom: 40px;
-    letter-spacing: 6px;
-    font-size: 10px;
-  }
+    flex-direction: row;
+}
 
-  .nav li {
-    display: inline-block;
-    margin: 5px;
-    padding: 5px;
-    cursor: pointer;
-  }
+.summary {
+    font-size: 105%;
+}
 
-  .nav li a {
+/* Misc */
+
+img {
+    max-width: 100%;
+}
+
+p {
+    margin-top: 0;
+    margin-bottom: 0;
+}
+
+abbr[title] {
     text-decoration: none;
-    color: darkseagreen;
-  }
+    border: none;
+}
 
-  .exp {
-    list-style: none;
+ul {
+    margin: 0;
+    padding: 0;
+}
+
+li {
+    list-style-type: none;
     padding: 0;
     margin: 0;
-    color:rosybrown;
-  }
+}
 
-  .exp li {
-    list-style: none;
-    padding: 0;
-    margin: 10px 0;
-    color:rosybrown;
-  }
+li + li {
+    margin-top: 0.4em;
+}
 
-  .achievemnts {
-  list-style-image: url(./img-ok1\ -\ копия.png);
-  }
+.fa, .fab {
+    text-align: center;
+    min-width: 1em;
+}
 
-  .str-point {
+li .fa, li .fab {
+    margin-right: 0.3em;
+}
 
-    list-style-image: url(./img-ok2\ -\ копия.png);
+/* Page layout */
 
-  }
-
-  .logo-img {
-  width: 980px;
-  }
-
-  .name-tag {
-  font-size: 28px;
-  letter-spacing: 10px;
-  }
-
-  .paragraph {
-    margin: 20px 0;
-    font-size: 18px;
-    line-height: 30px;
-  }
-
-  .hands-bg {
-    background-image: url("./wallpaper2.jpg");
-    background-position: center;
-    background-size: cover;
-    font-size: 46px;
-  }
-
-  .circle-img {
-  border-radius: 50%;
-  }
-
-  .word-spacing {
-  letter-spacing: 6px;
-  }
-
-  .img-container {
-    display: flex;
-    justify-content: space-between;
-    margin-top: 40px;
-  }
-
-  .img-container2 {
-    display: flex;
-    justify-content: left;
-    margin-top: 100;
-    height: 1120;
-    width: 01;
-  }
-
-  #contact-form {
+#save > section:first-of-type > aside {
+    flex-basis: var(--sidebar-width);
+    padding: 0.1618in 0 0.1618in 0.1618in;
     display: flex;
     flex-direction: column;
-    align-items: flex-end;
-  }
+}
 
-  #contact-form input, #contact-form textarea{
-    padding: 20px;
-    margin-bottom: 20px;
-    font-size: 20px;
-    font-weight: bold;
-    outline: none;
-    width: 853px;
-    border: none;
-    border: 3px solid cornflowerblue;
-  }
+#save > section:first-of-type > aside > section + section {
+    margin-top: 2em;
+}
 
-  textarea {
-    font-family: 'Times New Roman', Times, serif;
-    height: 100px;
-  }
+#save > section:first-of-type > aside > section:last-child {
+    margin-top: auto;
+} 
 
-  input#submit {
-    width: 350px;
-    cursor: pointer;
-    background: rgb(189, 94, 113);
-    color: gold;
-    font-size: 24px;
-    box-shadow: -20px -15px 15px 0px rgba(239, 255, 15, 0.863) inset;
-  }
+#save > section:first-of-type > section {
+    flex-basis: var(--main-width);
+    display: flex;
+    flex-direction: column;
+}
 
-  #gototop {
-    text-decoration: none;
+#save > section:first-of-type > section > header {
+    flex-basis: var(--header-height);
+    flex-grow: 0;
+    padding: 0.1618in;
+}
+
+#save > section:first-of-type > section > section {
+    flex-grow: 1;
+    padding: 0.1618in;
+    padding-top: 0;
+    display: flex;
+    flex-direction: column;
+}
+
+#save > section:first-of-type > section > section > section + section {
+    margin-top: 1em;
+}
+
+#save > section:first-of-type > section > section > section:last-child {
+    margin-top: auto;
+}
+
+.references address {
+    font-style: normal;
+    font-weight: 300;
+}
+
+.references address:first-line {
+    font-weight: 400;
+}
+
+.references address + address,
+.references address + p {
+    padding-top: 0.5em;
+}
+
+/* Skills */
+
+.skills {
+    font-size: 92%;
+}
+
+.skills > ul:after {
+    content: '';
+    display: table;
+    clear: both;
+}
+
+.skills > ul > li {
+    display: block;
+    float: left;
+    margin: 6px 6px 0 0;
+}
+
+.skills > ul > li > span {
+    background-color: #f5f5f5;
+    border: 1px solid rgba(45, 45, 45, 0.1618);
+    border-radius: 3px;
+    color: #333;
+    padding: 4px 8px;
     display: inline-block;
-    height: 75px;
-    width: 75px;
-    background: rgb(224, 204, 86);
-    font-size: 45px;
-    font-weight: bold;
-    text-align: center;
-    border: 3px solid cornflowerblue;
-    color: rgb(228, 217, 217);
-    position: fixed;
-    bottom: 80px;
-    left: 200px;
-    box-shadow: 20px 15px 15px 0px rgba(235, 229, 229, 0.863) inset;
-  }
+}
 
-  .other {
-    font-size: 12px;
-    text-align: center;
-    background: gold;
-  }
+/* Experience & Education */
 
-  .logo-container {
-    width: 890px;
-    height: 547px;
-    background-image: url("./img/+Dsc_1568.jpg");
-    background-size: cover;
-    box-shadow: 0px -120px 50px 0px rgba(73, 0, 165, 0.9) inset;
-  } 
-
-  .text-overlap {
-    position: relative;
-    padding: 0 60px ;
-    top: -90px;
+.education ol,
+.experience ol {
     margin: 0;
+    padding: 0;
+}
+
+.experience ol {
+    flex-wrap: wrap;
+    display: flex;
+    flex-direction: row;
+}
+
+.experience ol > li {
+    margin: 0;
+    padding: 0;
+    flex-basis: 100%;
+    font-weight: 300;
+}
+
+.education ol > li {
+    font-weight: 300;
+}
+
+.experience ol > li + li {
+    margin-top: 1em;
+}
+
+.education ol > li div,
+.experience ol > li header {
+    display: flex;
+    flex-direction: row;
+}
+
+.experience ol > li > span,
+.education ol > li p,
+.experience ol > li header p {
+    font-weight: 400;
+}
+
+.experience ol > li header p {
+    font-size: 110%;
+}
+
+.education ol > li div > *:last-child,
+.experience ol > li header > *:last-child {
+    margin-left: auto;
+}
+
+.experience ol > li ul {
+    padding-top: 0.5em;
+}
+
+.experience ol > li ul li {
+    list-style-type: circle;
+    margin-left: 1.618em;
+}
+
+/* Paper CSS:  */
+
+@page { margin: 0 }
+body { margin: 0 }
+.sheet {
+  margin: 0;
+  overflow: hidden;
+  position: relative;
+  box-sizing: border-box;
+  page-break-after: always;
+}
+
+/** Paper sizes **/
+body.A3               .sheet { width: 297mm; height: 419mm }
+body.A3.landscape     .sheet { width: 420mm; height: 296mm }
+body.A4               .sheet { width: 210mm; height: 296mm }
+body.A4.landscape     .sheet { width: 297mm; height: 209mm }
+body.A5               .sheet { width: 148mm; height: 209mm }
+body.A5.landscape     .sheet { width: 210mm; height: 147mm }
+body.letter           .sheet { width: 216mm; height: 279mm }
+body.letter.landscape .sheet { width: 280mm; height: 215mm }
+body.legal            .sheet { width: 216mm; height: 356mm }
+body.legal.landscape  .sheet { width: 357mm; height: 215mm }
+
+/** Padding area **/
+.sheet.padding-10mm { padding: 10mm }
+.sheet.padding-15mm { padding: 15mm }
+.sheet.padding-20mm { padding: 20mm }
+.sheet.padding-25mm { padding: 25mm }
+
+/** For screen preview **/
+@media screen {
+  body { background-color: rgb(83, 86, 89); /*#e0e0e0*/ }
+  .sheet {
+    background: white;
+    box-shadow: 0 .5mm 2mm rgba(0,0,0,.5);
+    margin: 5mm auto;
   }
+}
 
-</style>
-<!--закончили CSS-->
-</head>
+/** Fix for Chrome issue #273306 **/
+@media print {
+  body.A3.landscape          { width: 420mm }
+  body.A3, body.A4.landscape { width: 297mm }
+  body.A4, body.A5.landscape { width: 210mm }
+  body.A5                    { width: 148mm }
+  body.letter, body.legal    { width: 216mm }
+  body.letter.landscape      { width: 280mm }
+  body.legal.landscape       { width: 357mm }
+}
 
-<body>
-<!--начинается верстка-->
-<div>
-  <div class="purple">
-    <div class="block1" id="navigation"/>
+html {
+    padding: 2.4em;
+}
 
-      <ul class="cyan-text nav" style="padding-top: 10px;">
-      <!--верхний блок-->
-       <li>
-         <a href="https://promodj.com/djratek/music">
-         <span class="bold-text cyan-text name-tag">Д е н и C<br> 
-          РАТЬКОВ </span></a> 
-       </li>
+.sheet {
+    border: 1px solid black;
+}
 
-       <li
-         class="cyan-text">
-         <a href="#experience">
-            Опыт
-          </a>
-       </li>
-        
-       <li
-         class="cyan-text">
-          <a href="#achhievemnts">
-            Достижения
-          </a>
-       </li>
-      
-       <li
-         class="cyan-text">
-          <a href="#strong">
-           Сильные стороны
-         </a>
-       </li>
-        
-       <li
-         class="cyan-text">
-         <a href="#private">
-           Биография
-          </a>
-       </li>
-        
-        <li
-          class="cyan-text">
-          <a href="#contact">
-            Контакты
-          </a>
-       </li>
-      
-      </ul>
+#save > section:first-of-type > aside {
+    background-color: #f5f5f5;
+}
 
-      <!--img classs="logo-img" src=./img/+Dsc_1568.jpg alt="Портрет"> -->
-      <!--добавляем картинку с размытием> -->
-      <div class="logo-container"></div>
-      
-      <!--добавляем текст, который будет внутри> -->
-      <p class="golg-text paragraph text-overlap">
-       Я не только начинающий программист, я много чем по жизни занимаюсь, вот решил начать с Front!
-      </p>
-      <!--описание к картинке-->
-      <h1 class="white-text" style="margin-top: 0;">Showбиз : продюссер - музыкант - DJ - битмейкер</h1>       
-    
-    </div>
+#save > section:first-of-type aside .skills > ul > li > span {
+    background-color: white;
+}
 
-  </div>
-      
-  <div class="block1" id="experience">
-  <!--блок1-->
+button, a[role="button"] {
+    user-select: none;
+}
 
-   <h2>
-     Мой Опыт работы
-    </h2>
+#document-controls {
+    position: fixed;
+    right: 0;
+    top: 0;
+    margin-top: 0.5em;
+    margin-right: 0.5em;
+    display: flex;
+    flex-direction: column;
+}
 
-    <ol class="exp">
-    
-     <li>
-       Python - <span class="bold-text"> 1 месяц изучения 
-     </li>
+#document-controls button + button,
+#document-controls button + a[role="button"],
+#document-controls a[role="button"] + a[role="button"],
+#document-controls a[role="button"] + button {
+    margin-top: 0.5em;
+}
 
-     <li>
-       JScript - <span class="bold-text"> 2 месяца Джавы
-     </li>
+#github-link {
+    display: block;
+    position: fixed;
+    left: 0;
+    top: 0;
+    margin-top: 0.5em;
+    margin-left: 0.5em;
+    text-decoration: none;
+    color: black;
+}
 
-     <li>
-       HTML - <span class="bold-text"> 1 месяц и курсы
-     </li>
+/* Source https://www.bestcssbuttongenerator.com/#/36 */
 
-     <li>
-      CSS - <span class="bold-text"> 1 месяц и курсы
-    </li>
+button, a[role="button"] {
+	box-shadow:inset 0px 1px 0px 0px white;
+	background:linear-gradient(to bottom, #ededed 5%, #dfdfdf 100%);
+	background-color:#ededed;
+	border-radius:6px;
+	border:1px solid #dcdcdc;
+	display:inline-block;
+	cursor:pointer;
+	color:#777777;
+	font-size:15px;
+	font-weight:bold;
+	padding:6px 24px;
+	text-decoration:none;
+	text-shadow:0px 1px 0px white;
+}
 
-    </ol>
+button:hover, button:active,
+a[role="button"]:hover, a[role="button"]:active {
+	background:linear-gradient(to bottom, #dfdfdf 5%, #ededed 100%);
+	background-color:#dfdfdf;
+}
 
-  </div>
+button:active, a[role="button"]:active {
+	position:relative;
+	top:1px;
+}
 
-  <div class="block1 no-padding-top" id="achhievemnts">
-  <!--блок2-->
 
-    <h2>
-     Мои Достижения
-    </h2>
 
-    <p>
-      
-      Самые главные из них
-
-    </p>
-
-    <ul class="achievemnts">
-
-     <li><span class="bold-text">
-       Начало верстки сайтов</span>
-     </li>
-
-     <li><span class="bold-text">
-       JS - понимание динамики 
-     </li>
-
-     <li><span class="bold-text">
-       Яндекс практикум - Python
-     </li>
-
-     <li><span class="bold-text">
-      Закончил курс ITEA (верстка) 
-    </li>
-
-    </ul>
-
-  </div>
-
-  <div class="block1 no-padding-top" id="strong">
-  <!--блок3-->
-
-    <h2>
-      Сильные стороны
-    </h2>
-
-    <ul class="cyan-text str-point">
-
-     <li>
-       уверенность
-     </li>
-
-     <li>
-       стремление
-     </li>
-
-     <li>
-       упорство
-     </li>
-
-     <li>
-       быстро учусь
-     </li>
-
-     <li>
-      быть лучшим
-    </li>
-
-    <li>
-      пью - не пьянею
-    </li>
-
-    <li>
-      а если пьянею
-    </li>
-
-    <li>
-      то уже капец
-    </li>
-
-    <li>
-      люблю девушек
-    </li>
-
-    <li>
-      кстати звоните
-    </li>
-
-    </ul>
-
-  </div>
-  
-  <div class="hands-bg" id="deviz">
-  <!--просто картинка-->
-
-    <div class="block1">
-
-      <p>
-        <i>Можно быть первым - и это УЖЕ доказано!</i>
-      </p>
-
-    </div>
-
-  </div>
-
-  <div class="block1" id="private">
-  <!--блок4-->
-
-    <h2>
-      Биография
-    </h2>
-    
-    <p class="paragraph">
-      Всем привет! Меня зовут Денис! С детства увдекаюсь качественной музыкой, видимо и поэтому я стал DJ! 
-      С каких-то пор я начал продюссировать молодых и талантливых, а также писать авторские треки и биты и к ним текста!
-      И вообще я много чем занимался, я был и руководителем группы и наставником и главным инженером и 
-      энергетиком, в компах время от времени "колупался", и "колупался" в электронике и 
-      технике, так же своими руками создал много акустических систем, сам всё это дело расчитывал и измерял, вся свето-техника, что связана со свето-диодами,
-      сложил велосипед под себя и проехал тысячи киллометров на нем, типа ЗОЖ, люблю легкую аттлетику, а так я ГИК, люблю новые и свежие технологии,
-      тестирую в основном мобильные камеры, а так я простой человек, люблю юмор, а так же увожу соседских девочек,
-      а так хакер по жизни, вот решил исправится и стать Full-Stack разработчиком! Люблю бурбон, темное пиво и темненьких чик!
-    </p>
-
-    <div class="img-container">
-
-      <a href="https://vk.com/djratek">
-      <img class="circle-img" src=./img/no1.jpg alt="pictire1">
-      </a>
-     <img class="circle-img" src=./img/no2.jpg alt="pictire2">
-     <img class="circle-img" src=./img/no3.jpg alt="pictire3">
-    
-    </div>
-
-  </div>
-  
-  <div class="block1 no-padding-top" id="contact">
-
-    <h2>
-     Контакты
-    </h2>
-
-    <form action="/" method="POST" id="contact-form">
-      <input type="text" name="FIO" placeholder="ФИО">
-      <input type="email" name="email">
-      <textarea name="message" placeholder="Сообщение"></textarea>
-      <input type="submit" name="submit" id="submit"
-    </form>
-
-    <div class="block1 no-padding-top" id="partner">
-
-      <h2>
-        Мои Партнеры
-      </h2>
-
-      <a href="https://www.beatport.com/artist/ratek-fleek/753821">
-      <img class="circle-img" src=./img/beatport.png alt="pictire11">
-      </a>
-      <a href="https://promodj.com/djratek">
-      <img class="circle-img" src=./img/promodj.png alt="pictire22">
-      </a>
-      <a href="https://soundcloud.com/djratek">
-      <img class="circle-img" src=./img/soundcloud.png alt="pictire33">
-      </a>
-      <a href="https://music.yandex.ru/artist/5406864">
-      <img class="circle-img" src=./img/яндекс.png alt="pictire44">
-      </a>
-      <a href="https://podcasts.apple.com/ru/podcast/vip-electro-dj-ratek/id963580874">
-      <img class="circle-img" src=./img/apple.png alt="pictire55">
-      </a>
-      <a href="https://artists.spotify.com/c/artist/3KfNOE8a2fU5oetyNPpWGD/profile/overview">
-      <img class="circle-img" src=./img/spotify.png alt="pictire66">
-      </a>
-      <a href="https://vk.com/freakydeejays">
-      <img class="circle-img" src=./img/freaky.jpg alt="pictire77">
-      </a>
-      <a href="https://www.djrating.ru/dj/9094#">
-      <img class="circle-img" src=./img/топ100.jpg alt="pictire88">
-      </a>
-
-    </div>
-    
-
-    <a id="gototop" href="#navigation">
-      ∧
-    </a>
-
-  </div>
-
-</div>
-<!--закончили верстку, ниже JS-->
-
-<div class="other"> Мой сайт 2021@info связь со мной VK: <a href="https://www.vk.com/denisratskov" target=_blank">@denisratskov</a> Phone: +375 33 6624300 
-(email) <a href="mailto:denisratskov@gmail.com"Mailto target="_blank">@denisratskov</a></div>
-
-<script>
-  alert("Пример кода")
-  //типа того что-то, а дальще - больше
-</script>
-
-</body>
-
-</html>
